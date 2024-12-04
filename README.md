@@ -1,4 +1,4 @@
-# GitHub_repo_analyzer
+# GitHub_repo_statistics
 
 This is a Streamlit-based web application designed to analyze and visualize data from GitHub repositories. Users can input a GitHub organization or user, and fetch repository information, including stars, forks, open issues, and traffic data such as unique views and clones.
 
