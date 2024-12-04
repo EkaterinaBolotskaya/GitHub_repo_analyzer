@@ -31,7 +31,7 @@ This is a Streamlit-based web application designed to analyze and visualize data
 
 3. Run the application:
     ```bash
-    streamlit run repo_analyzer.py
+    streamlit run repo_statistics.py
     ```
 
 5. Open the provided URL in your browser (`http://localhost:8501`) to access the app.
@@ -53,7 +53,7 @@ Once the data is fetched from the GitHub API, it is stored in a local cache to p
 
 ### Repo contents:
 
-- **Source Code**: repo_analyzer.py.
+- **Source Code**: repo_statistics.py.
 - **README.md**: This file.
 
 ---
