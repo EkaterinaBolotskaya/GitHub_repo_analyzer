@@ -56,6 +56,18 @@ Once the data is fetched from the GitHub API, it is stored in a local cache to p
 - **Source Code**: repo_statistics.py.
 - **README.md**: This file.
 
+### Screenshots:
+
+- Choose between user or org repository data from GitHub and provide a token.
+![image](https://github.com/user-attachments/assets/e6e4d72e-20b5-4483-9d9f-7ae8d08ccafa)
+
+- Table view with filtering capabilities to analyze repositories based on different metrics.
+![image](https://github.com/user-attachments/assets/e3602c61-e666-4aca-bd1e-736e5b659c3d)
+
+- Interactive plots view to visualize the distribution of repository metrics.
+![image](https://github.com/user-attachments/assets/35b34c54-402c-4a7d-b3c9-fc3ccc49154d)
+
+
 ---
 
 **Note on GitHub tokens**: 
